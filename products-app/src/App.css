@@ -1,0 +1,24 @@
+.logo {
+  font-family: 'Kalam', cursive;  
+  font-weight: 700;
+  font-size: 34px;
+  letter-spacing: -3px;
+  border-bottom: 1px solid lightgray;
+}
+
+.app {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.products {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.product-cards {
+  display: flex;
+  justify-content: center;
+}
