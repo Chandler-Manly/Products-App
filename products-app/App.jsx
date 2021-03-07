@@ -18,7 +18,7 @@ const App = () => {
 }
 
 export default App
-
+// Source: refactored and used code from lecture, react architecture lab
 // what is the difference between exact and switch layouts is it repetitive?
 // we want to keep the app.jsx as minimal as possible 
 // because it is the parent component in the hierarchy and will always be rendered whenever you go to the website  
